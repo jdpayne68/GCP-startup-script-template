@@ -56,7 +56,7 @@ cat <<EOF > /var/www/html/index.html
   <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
-      <iframe src="https://giphy.com/embed/1sv8rIfAtyMsqsqDt8"
+      <iframe src="https://giphy.com/gifs/mrw-game-switch-xfR4J1y61nDnW"
               width="500"
               height="270"
               style="border-radius:10px;"
@@ -75,7 +75,7 @@ cat <<EOF > /var/www/html/index.html
       </h3>
     </div>
     <div class="w3-display-bottomleft w3-padding-small transparent-background outlined-text">
-      <h1>My Compute Instance Information</h1>
+      <h1>Jacques' Compute Instance Information</h1>
       <h3></h3>
       <p><b>Instance Name:</b> $(hostname -f)</p>
       <p><b>Instance Private IP Address: </b> $local_ipv4</p>
