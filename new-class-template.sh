@@ -32,7 +32,7 @@ cat <<EOF > /var/www/html/index.html
     body,h1,h3 {font-family: "Raleway", sans-serif}
     body, html {height: 100%}
     .bgimg {
-      background-image: url('https://pnggallery.com/philippines-flag');
+      background-image: url('https://github.com/jdpayne68/GCP-startup-script-template/blob/main/new-class-template.sh');
       min-height: 100%;
       background-position: center;
       background-size: cover;
