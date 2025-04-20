@@ -32,7 +32,7 @@ cat <<EOF > /var/www/html/index.html
     body,h1,h3 {font-family: "Raleway", sans-serif}
     body, html {height: 100%}
     .bgimg {
-      background-image: url('https://github.com/jdpayne68/GCP-startup-script-template/blob/main/philippines-flag-01%20(1).png');
+      background-image: url('https://github.com/jdpayne68/GCP-startup-script-template/blob/main/philippines-flag-01.png');
       min-height: 100%;
       background-position: center;
       background-size: cover;
@@ -56,13 +56,13 @@ cat <<EOF > /var/www/html/index.html
   <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
-      <iframe src="https://giphy.com/gifs/mrw-game-switch-xfR4J1y61nDnW"
-              width="500"
-              height="270"
-              style="border-radius:10px;"
-              frameBorder="0"
-              class="giphy-embed"
+      <iframe src="https://giphy.com/embed/HAtZSvNJ3cszC" 
+              width="480" 
+              height="432" 
+              style="" frameBorder="0" 
+              class="giphy-embed" 
               allowFullScreen>
+      </iframe><p><a href="https://giphy.com/gifs/boondocks-adult-swim-the-boondocks-HAtZSvNJ3cszC">via GIPHY</a></p>
       </iframe>
       <hr class="w3-border-grey" style="margin:auto;width:40%;margin-top:15px;">
       <h3 class="w3-large w3-center" style="margin-top:15px;">
@@ -75,7 +75,7 @@ cat <<EOF > /var/www/html/index.html
       </h3>
     </div>
     <div class="w3-display-bottomleft w3-padding-small transparent-background outlined-text">
-      <h1>Jacques' Compute Instance Information</h1>
+      <h1>My name is Jacques. Uhuru Sol is my group leader. In the 3 years, I plan to relocate to SE Asia.</h1>
       <h3></h3>
       <p><b>Instance Name:</b> $(hostname -f)</p>
       <p><b>Instance Private IP Address: </b> $local_ipv4</p>
