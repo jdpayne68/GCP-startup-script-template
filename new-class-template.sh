@@ -62,7 +62,7 @@ cat <<EOF > /var/www/html/index.html
               style="" frameBorder="0" 
               class="giphy-embed" 
               allowFullScreen>
-      </iframe><p><a href="https://giphy.com/gifs/boondocks-adult-swim-the-boondocks-HAtZSvNJ3cszC">via GIPHY</a></p>
+      </iframe><p><a href="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDg3d2J3aG84bDgxc2sweXo2dnI5ZmkwZnc1aWEwZ2NrbjAzdWd2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEhn9LfBvRDBctNnO/giphy.gif</a></p>
       </iframe>
       <hr class="w3-border-grey" style="margin:auto;width:40%;margin-top:15px;">
       <h3 class="w3-large w3-center" style="margin-top:15px;">
